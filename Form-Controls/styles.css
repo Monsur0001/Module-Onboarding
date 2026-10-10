@@ -15,3 +15,32 @@ main {
     box-shadow: 0 4px 6px;
 
 }
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+
+}
+
+fieldset {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    border: 1px solid green;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+
+    
+}
