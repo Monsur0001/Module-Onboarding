@@ -5,3 +5,13 @@
 h1, footer {
     text-align: center; 
 }
+
+main {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px;
+
+}
